@@ -100,5 +100,6 @@ Maintained by a Master’s student in Biotechnology at Hochschule Offenburg, con
 Focused on applying computational tools to drug discovery and bioinformatics.
 
 ---
-
+## Working link
+[Try it](https://www.datacamp.com/datalab/w/eafc4a33-5521-4a15-ab9c-57932657922e/edit/EDA%20-%20Drug%20Discovery%20.ipynb)
 
